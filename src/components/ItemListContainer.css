@@ -1,0 +1,11 @@
+.item-list-container {
+    padding: 20px;
+    background-color: #2a2d2e; 
+    color: #fff; 
+    text-align: center;
+  }
+  
+  .item-list-container h1 {
+    color: #00b8a9; 
+  }
+  
